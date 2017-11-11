@@ -4,7 +4,7 @@ HPCE 2017 CW5
 - Issued: Fri 10th Nov
 - Due: Fri 24th Nov, 22:00
 
-Erratta
+Errata
 -------
 
 - 2017/11/11 : Update to Gaussian Blur [due to typo](https://github.com/HPCE/hpce-2017-cw5/issues/2). This
